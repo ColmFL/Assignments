@@ -1,2 +1,2 @@
 # Assignments
-Assignments undertaken during course.
+Assignments undertaken during Hdip in Software Design and Development (Industry Stream).
