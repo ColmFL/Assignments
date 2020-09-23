@@ -1,0 +1,520 @@
+Day 1 beginning. There are 0 cars in the showroom today.
+A new buyer 1 has arrived at the showroom.
+A new buyer 2 has arrived at the showroom.
+Buyer 2 wants to buy a car, but the showroom is currently empty.
+Buyer 1 wants to buy a car, but the showroom is currently empty.
+A new seller 2 has arrived at the showroom.
+A new seller 1 has arrived at the showroom.
+Seller 2 has just sold the gray car with a registration of 14-G-7318 which is valued at €14793
+This is sale number 2
+Seller 1 has just sold the green car with a registration of 14-G-5051 which is valued at €9152
+This is sale number 2
+Buyer 1 has just bought the gray car with a registration of 14-G-7318 which is valued at €14793
+This is purchase number 2
+Buyer 2 has just bought the green car with a registration of 14-G-5051 which is valued at €9152
+This is purchase number 2
+Day 2 beginning. There are 0 cars in the showroom today.
+A new buyer 3 has arrived at the showroom.
+Buyer 3 wants to buy a car, but the showroom is currently empty.
+A new buyer 4 has arrived at the showroom.
+A new buyer 5 has arrived at the showroom.
+A new seller 3 has arrived at the showroom.
+Buyer 4 wants to buy a car, but the showroom is currently empty.
+Seller 3 has just sold the green car with a registration of 4-G-7945 which is valued at €9611
+This is sale number 3
+Buyer 5 has just bought the green car with a registration of 4-G-7945 which is valued at €9611
+This is purchase number 5
+Buyer 4 wants to buy a car, but the showroom is currently empty.
+Buyer 3 wants to buy a car, but the showroom is currently empty.
+Day 3 beginning. There are 0 cars in the showroom today.
+A new buyer 6 has arrived at the showroom.
+Buyer 6 wants to buy a car, but the showroom is currently empty.
+A new buyer 7 has arrived at the showroom.
+A new buyer 8 has arrived at the showroom.
+Buyer 8 wants to buy a car, but the showroom is currently empty.
+Buyer 7 wants to buy a car, but the showroom is currently empty.
+A new seller 4 has arrived at the showroom.
+A new seller 5 has arrived at the showroom.
+Seller 4 has just sold the Pink car with a registration of 3-G-9115 which is valued at €20684
+This is sale number 5
+Seller 5 has just sold the yellow car with a registration of 2-G-2617 which is valued at €22971
+This is sale number 5
+Buyer 7 has just bought the Pink car with a registration of 3-G-9115 which is valued at €20684
+This is purchase number 8
+Buyer 8 has just bought the yellow car with a registration of 2-G-2617 which is valued at €22971
+This is purchase number 8
+Buyer 6 wants to buy a car, but the showroom is currently empty.
+Buyer 3 wants to buy a car, but the showroom is currently empty.
+Buyer 4 wants to buy a car, but the showroom is currently empty.
+Day 4 beginning. There are 0 cars in the showroom today.
+A new buyer 9 has arrived at the showroom.
+Buyer 9 wants to buy a car, but the showroom is currently empty.
+A new buyer 10 has arrived at the showroom.
+Buyer 10 wants to buy a car, but the showroom is currently empty.
+A new seller 6 has arrived at the showroom.
+A new seller 7 has arrived at the showroom.
+Seller 6 has just sold the magenta car with a registration of 7-G-8251 which is valued at €5141
+A new seller 8 has arrived at the showroom.
+This is sale number 8
+Seller 8 has just sold the orange car with a registration of 19-G-1943 which is valued at €28074
+This is sale number 8
+Seller 7 has just sold the yellow car with a registration of 16-G-3622 which is valued at €176
+This is sale number 8
+Buyer 10 has just bought the magenta car with a registration of 7-G-8251 which is valued at €5141
+This is purchase number 10
+Buyer 9 has just bought the orange car with a registration of 19-G-1943 which is valued at €28074
+This is purchase number 10
+Buyer 4 has just bought the yellow car with a registration of 16-G-3622 which is valued at €176
+This is purchase number 10
+Buyer 3 wants to buy a car, but the showroom is currently empty.
+Buyer 6 wants to buy a car, but the showroom is currently empty.
+Day 5 beginning. There are 0 cars in the showroom today.
+A new buyer 11 has arrived at the showroom.
+Buyer 11 wants to buy a car, but the showroom is currently empty.
+A new buyer 12 has arrived at the showroom.
+Buyer 12 wants to buy a car, but the showroom is currently empty.
+A new seller 9 has arrived at the showroom.
+A new seller 10 has arrived at the showroom.
+Seller 9 has just sold the magenta car with a registration of 3-G-5750 which is valued at €3224
+This is sale number 10
+Seller 10 has just sold the Pink car with a registration of 1-G-5403 which is valued at €26207
+This is sale number 10
+Buyer 12 has just bought the magenta car with a registration of 3-G-5750 which is valued at €3224
+This is purchase number 12
+Buyer 11 has just bought the Pink car with a registration of 1-G-5403 which is valued at €26207
+This is purchase number 12
+Buyer 6 wants to buy a car, but the showroom is currently empty.
+Buyer 3 wants to buy a car, but the showroom is currently empty.
+Day 6 beginning. There are 0 cars in the showroom today.
+A new buyer 13 has arrived at the showroom.
+Buyer 13 wants to buy a car, but the showroom is currently empty.
+A new seller 11 has arrived at the showroom.
+Seller 11 has just sold the Pink car with a registration of 0-G-3006 which is valued at €697
+This is sale number 11
+A new seller 12 has arrived at the showroom.
+Buyer 13 has just bought the Pink car with a registration of 0-G-3006 which is valued at €697
+This is purchase number 13
+Buyer 3 wants to buy a car, but the showroom is currently empty.
+Buyer 6 wants to buy a car, but the showroom is currently empty.
+Seller 12 has just sold the white car with a registration of 0-G-1125 which is valued at €10950
+This is sale number 12
+Buyer 6 has just bought the white car with a registration of 0-G-1125 which is valued at €10950
+This is purchase number 13
+Buyer 3 wants to buy a car, but the showroom is currently empty.
+Day 7 beginning. There are 0 cars in the showroom today.
+A new buyer 14 has arrived at the showroom.
+Buyer 14 wants to buy a car, but the showroom is currently empty.
+A new seller 13 has arrived at the showroom.
+Seller 13 has just sold the yellow car with a registration of 0-G-2162 which is valued at €20508
+A new seller 14 has arrived at the showroom.
+This is sale number 14
+Seller 14 has just sold the black car with a registration of 6-G-1659 which is valued at €75
+A new seller 15 has arrived at the showroom.
+This is sale number 15
+Buyer 14 has just bought the yellow car with a registration of 0-G-2162 which is valued at €20508
+This is purchase number 14
+Buyer 3 has just bought the black car with a registration of 6-G-1659 which is valued at €75
+This is purchase number 14
+Seller 15 has just sold the red car with a registration of 17-G-8573 which is valued at €14315
+This is sale number 15
+Day 8 beginning. There are 1 cars in the showroom today.
+A new buyer 15 has arrived at the showroom.
+A new buyer 16 has arrived at the showroom.
+Buyer 15 has just bought the red car with a registration of 17-G-8573 which is valued at €14315
+This is purchase number 16
+Buyer 16 wants to buy a car, but the showroom is currently empty.
+A new seller 17 has arrived at the showroom.
+A new seller 16 has arrived at the showroom.
+Seller 17 has just sold the green car with a registration of 12-G-4466 which is valued at €20517
+This is sale number 17
+Seller 16 has just sold the green car with a registration of 5-G-6691 which is valued at €6300
+This is sale number 17
+Buyer 16 has just bought the green car with a registration of 12-G-4466 which is valued at €20517
+This is purchase number 16
+Day 9 beginning. There are 1 cars in the showroom today.
+A new buyer 17 has arrived at the showroom.
+Buyer 17 has just bought the green car with a registration of 5-G-6691 which is valued at €6300
+This is purchase number 17
+A new buyer 18 has arrived at the showroom.
+A new seller 18 has arrived at the showroom.
+A new seller 19 has arrived at the showroom.
+Buyer 18 wants to buy a car, but the showroom is currently empty.
+Seller 19 has just sold the Pink car with a registration of 14-G-9059 which is valued at €15519
+This is sale number 19
+Seller 18 has just sold the green car with a registration of 0-G-3784 which is valued at €9326
+This is sale number 19
+Buyer 18 has just bought the Pink car with a registration of 14-G-9059 which is valued at €15519
+This is purchase number 18
+Day 10 beginning. There are 1 cars in the showroom today.
+A new buyer 19 has arrived at the showroom.
+Buyer 19 has just bought the green car with a registration of 0-G-3784 which is valued at €9326
+A new buyer 20 has arrived at the showroom.
+This is purchase number 20
+A new buyer 21 has arrived at the showroom.
+A new seller 20 has arrived at the showroom.
+Buyer 20 wants to buy a car, but the showroom is currently empty.
+Seller 20 has just sold the white car with a registration of 13-G-2178 which is valued at €12853
+This is sale number 20
+Buyer 21 has just bought the white car with a registration of 13-G-2178 which is valued at €12853
+This is purchase number 21
+Buyer 20 wants to buy a car, but the showroom is currently empty.
+Day 11 beginning. There are 0 cars in the showroom today.
+A new buyer 22 has arrived at the showroom.
+Buyer 22 wants to buy a car, but the showroom is currently empty.
+A new buyer 23 has arrived at the showroom.
+Buyer 23 wants to buy a car, but the showroom is currently empty.
+A new seller 21 has arrived at the showroom.
+Seller 21 has just sold the neon green car with a registration of 1-G-8070 which is valued at €27724
+A new seller 22 has arrived at the showroom.
+This is sale number 22
+A new seller 23 has arrived at the showroom.
+Seller 22 has just sold the gray car with a registration of 0-G-3359 which is valued at €28770
+This is sale number 23
+Buyer 23 has just bought the neon green car with a registration of 1-G-8070 which is valued at €27724
+This is purchase number 23
+Buyer 22 has just bought the gray car with a registration of 0-G-3359 which is valued at €28770
+This is purchase number 23
+Buyer 20 wants to buy a car, but the showroom is currently empty.
+Seller 23 has just sold the yellow car with a registration of 2-G-5688 which is valued at €5005
+This is sale number 23
+Buyer 20 has just bought the yellow car with a registration of 2-G-5688 which is valued at €5005
+This is purchase number 23
+Day 12 beginning. There are 0 cars in the showroom today.
+A new buyer 24 has arrived at the showroom.
+Buyer 24 wants to buy a car, but the showroom is currently empty.
+A new buyer 25 has arrived at the showroom.
+Buyer 25 wants to buy a car, but the showroom is currently empty.
+A new seller 25 has arrived at the showroom.
+A new seller 24 has arrived at the showroom.
+Seller 25 has just sold the white car with a registration of 9-G-2936 which is valued at €2122
+This is sale number 25
+Seller 24 has just sold the gray car with a registration of 12-G-8032 which is valued at €5375
+This is sale number 25
+Buyer 25 has just bought the white car with a registration of 9-G-2936 which is valued at €2122
+This is purchase number 25
+Buyer 24 has just bought the gray car with a registration of 12-G-8032 which is valued at €5375
+This is purchase number 25
+Day 13 beginning. There are 0 cars in the showroom today.
+A new buyer 26 has arrived at the showroom.
+Buyer 26 wants to buy a car, but the showroom is currently empty.
+A new buyer 27 has arrived at the showroom.
+Buyer 27 wants to buy a car, but the showroom is currently empty.
+A new seller 26 has arrived at the showroom.
+Seller 26 has just sold the white car with a registration of 4-G-8048 which is valued at €4820
+A new seller 27 has arrived at the showroom.
+This is sale number 27
+Seller 27 has just sold the green car with a registration of 5-G-3850 which is valued at €4999
+This is sale number 27
+Buyer 27 has just bought the white car with a registration of 4-G-8048 which is valued at €4820
+This is purchase number 27
+Buyer 26 has just bought the green car with a registration of 5-G-3850 which is valued at €4999
+This is purchase number 27
+Day 14 beginning. There are 0 cars in the showroom today.
+A new buyer 28 has arrived at the showroom.
+Buyer 28 wants to buy a car, but the showroom is currently empty.
+A new seller 28 has arrived at the showroom.
+Seller 28 has just sold the yellow car with a registration of 13-G-4884 which is valued at €5819
+This is sale number 28
+Buyer 28 has just bought the yellow car with a registration of 13-G-4884 which is valued at €5819
+This is purchase number 28
+Day 15 beginning. There are 0 cars in the showroom today.
+A new buyer 29 has arrived at the showroom.
+Buyer 29 wants to buy a car, but the showroom is currently empty.
+A new buyer 30 has arrived at the showroom.
+Buyer 30 wants to buy a car, but the showroom is currently empty.
+A new seller 29 has arrived at the showroom.
+Seller 29 has just sold the yellow car with a registration of 9-G-9400 which is valued at €22999
+This is sale number 29
+Buyer 30 has just bought the yellow car with a registration of 9-G-9400 which is valued at €22999
+This is purchase number 30
+Buyer 29 wants to buy a car, but the showroom is currently empty.
+Day 16 beginning. There are 0 cars in the showroom today.
+A new buyer 31 has arrived at the showroom.
+Buyer 31 wants to buy a car, but the showroom is currently empty.
+A new buyer 32 has arrived at the showroom.
+Buyer 32 wants to buy a car, but the showroom is currently empty.
+A new seller 30 has arrived at the showroom.
+A new seller 31 has arrived at the showroom.
+Seller 30 has just sold the beige car with a registration of 11-G-3263 which is valued at €2904
+This is sale number 31
+Seller 31 has just sold the purple car with a registration of 11-G-4109 which is valued at €20138
+This is sale number 32
+A new seller 32 has arrived at the showroom.
+Buyer 32 has just bought the beige car with a registration of 11-G-3263 which is valued at €2904
+This is purchase number 32
+Buyer 31 has just bought the purple car with a registration of 11-G-4109 which is valued at €20138
+This is purchase number 32
+Buyer 29 wants to buy a car, but the showroom is currently empty.
+Seller 32 has just sold the yellow car with a registration of 14-G-6612 which is valued at €26233
+This is sale number 32
+Buyer 29 has just bought the yellow car with a registration of 14-G-6612 which is valued at €26233
+This is purchase number 32
+Day 17 beginning. There are 0 cars in the showroom today.
+A new buyer 33 has arrived at the showroom.
+Buyer 33 wants to buy a car, but the showroom is currently empty.
+A new buyer 34 has arrived at the showroom.
+Buyer 34 wants to buy a car, but the showroom is currently empty.
+A new seller 34 has arrived at the showroom.
+A new seller 33 has arrived at the showroom.
+Seller 34 has just sold the Pink car with a registration of 4-G-8046 which is valued at €13793
+This is sale number 34
+Seller 33 has just sold the white car with a registration of 1-G-9293 which is valued at €9890
+This is sale number 34
+Buyer 34 has just bought the Pink car with a registration of 4-G-8046 which is valued at €13793
+This is purchase number 34
+Buyer 33 has just bought the white car with a registration of 1-G-9293 which is valued at €9890
+This is purchase number 34
+Day 18 beginning. There are 0 cars in the showroom today.
+A new buyer 35 has arrived at the showroom.
+Buyer 35 wants to buy a car, but the showroom is currently empty.
+A new buyer 36 has arrived at the showroom.
+Buyer 36 wants to buy a car, but the showroom is currently empty.
+A new seller 35 has arrived at the showroom.
+Seller 35 has just sold the gray car with a registration of 18-G-1782 which is valued at €8658
+This is sale number 35
+Buyer 36 has just bought the gray car with a registration of 18-G-1782 which is valued at €8658
+This is purchase number 36
+Buyer 35 wants to buy a car, but the showroom is currently empty.
+Day 19 beginning. There are 0 cars in the showroom today.
+A new buyer 37 has arrived at the showroom.
+Buyer 37 wants to buy a car, but the showroom is currently empty.
+A new buyer 38 has arrived at the showroom.
+Buyer 38 wants to buy a car, but the showroom is currently empty.
+A new seller 36 has arrived at the showroom.
+Seller 36 has just sold the neon green car with a registration of 3-G-7422 which is valued at €4101
+This is sale number 36
+Buyer 38 has just bought the neon green car with a registration of 3-G-7422 which is valued at €4101
+This is purchase number 38
+Buyer 37 wants to buy a car, but the showroom is currently empty.
+Buyer 35 wants to buy a car, but the showroom is currently empty.
+Day 20 beginning. There are 0 cars in the showroom today.
+A new buyer 39 has arrived at the showroom.
+Buyer 39 wants to buy a car, but the showroom is currently empty.
+A new seller 37 has arrived at the showroom.
+Seller 37 has just sold the beige car with a registration of 0-G-2695 which is valued at €1459
+This is sale number 38
+A new seller 38 has arrived at the showroom.
+Buyer 39 has just bought the beige car with a registration of 0-G-2695 which is valued at €1459
+This is purchase number 39
+Buyer 35 wants to buy a car, but the showroom is currently empty.
+Buyer 37 wants to buy a car, but the showroom is currently empty.
+Seller 38 has just sold the peach car with a registration of 17-G-4812 which is valued at €29755
+This is sale number 38
+Buyer 37 has just bought the peach car with a registration of 17-G-4812 which is valued at €29755
+This is purchase number 39
+Buyer 35 wants to buy a car, but the showroom is currently empty.
+Day 21 beginning. There are 0 cars in the showroom today.
+A new buyer 40 has arrived at the showroom.
+Buyer 40 wants to buy a car, but the showroom is currently empty.
+A new seller 39 has arrived at the showroom.
+Seller 39 has just sold the blue car with a registration of 16-G-2637 which is valued at €6128
+This is sale number 39
+Buyer 40 has just bought the blue car with a registration of 16-G-2637 which is valued at €6128
+This is purchase number 40
+Buyer 35 wants to buy a car, but the showroom is currently empty.
+Day 22 beginning. There are 0 cars in the showroom today.
+A new buyer 41 has arrived at the showroom.
+Buyer 41 wants to buy a car, but the showroom is currently empty.
+A new seller 40 has arrived at the showroom.
+Seller 40 has just sold the gray car with a registration of 5-G-9368 which is valued at €23329
+This is sale number 40
+Buyer 41 has just bought the gray car with a registration of 5-G-9368 which is valued at €23329
+This is purchase number 41
+Buyer 35 wants to buy a car, but the showroom is currently empty.
+Day 23 beginning. There are 0 cars in the showroom today.
+A new buyer 42 has arrived at the showroom.
+Buyer 42 wants to buy a car, but the showroom is currently empty.
+A new buyer 43 has arrived at the showroom.
+Buyer 43 wants to buy a car, but the showroom is currently empty.
+A new buyer 44 has arrived at the showroom.
+Buyer 44 wants to buy a car, but the showroom is currently empty.
+A new seller 41 has arrived at the showroom.
+Seller 41 has just sold the black car with a registration of 18-G-3165 which is valued at €24382
+This is sale number 41
+Buyer 44 has just bought the black car with a registration of 18-G-3165 which is valued at €24382
+This is purchase number 44
+Buyer 43 wants to buy a car, but the showroom is currently empty.
+Buyer 42 wants to buy a car, but the showroom is currently empty.
+Buyer 35 wants to buy a car, but the showroom is currently empty.
+Day 24 beginning. There are 0 cars in the showroom today.
+A new buyer 45 has arrived at the showroom.
+Buyer 45 wants to buy a car, but the showroom is currently empty.
+A new buyer 46 has arrived at the showroom.
+Buyer 46 wants to buy a car, but the showroom is currently empty.
+A new buyer 47 has arrived at the showroom.
+Buyer 47 wants to buy a car, but the showroom is currently empty.
+A new seller 42 has arrived at the showroom.
+Seller 42 has just sold the red car with a registration of 19-G-2269 which is valued at €4979
+This is sale number 42
+Buyer 47 has just bought the red car with a registration of 19-G-2269 which is valued at €4979
+A new seller 43 has arrived at the showroom.
+This is purchase number 47
+Buyer 46 wants to buy a car, but the showroom is currently empty.
+Buyer 45 wants to buy a car, but the showroom is currently empty.
+Buyer 35 wants to buy a car, but the showroom is currently empty.
+Buyer 42 wants to buy a car, but the showroom is currently empty.
+Buyer 43 wants to buy a car, but the showroom is currently empty.
+Seller 43 has just sold the purple car with a registration of 7-G-9456 which is valued at €15863
+This is sale number 43
+Buyer 43 has just bought the purple car with a registration of 7-G-9456 which is valued at €15863
+This is purchase number 47
+Buyer 42 wants to buy a car, but the showroom is currently empty.
+Buyer 35 wants to buy a car, but the showroom is currently empty.
+Buyer 45 wants to buy a car, but the showroom is currently empty.
+Buyer 46 wants to buy a car, but the showroom is currently empty.
+Day 25 beginning. There are 0 cars in the showroom today.
+A new buyer 48 has arrived at the showroom.
+Buyer 48 wants to buy a car, but the showroom is currently empty.
+A new buyer 49 has arrived at the showroom.
+Buyer 49 wants to buy a car, but the showroom is currently empty.
+A new buyer 50 has arrived at the showroom.
+Buyer 50 wants to buy a car, but the showroom is currently empty.
+A new seller 44 has arrived at the showroom.
+Seller 44 has just sold the blue car with a registration of 0-G-5978 which is valued at €11057
+This is sale number 44
+A new seller 45 has arrived at the showroom.
+Buyer 50 has just bought the blue car with a registration of 0-G-5978 which is valued at €11057
+This is purchase number 50
+Buyer 49 wants to buy a car, but the showroom is currently empty.
+Buyer 48 wants to buy a car, but the showroom is currently empty.
+Buyer 46 wants to buy a car, but the showroom is currently empty.
+Buyer 45 wants to buy a car, but the showroom is currently empty.
+Buyer 35 wants to buy a car, but the showroom is currently empty.
+Buyer 42 wants to buy a car, but the showroom is currently empty.
+Seller 45 has just sold the brown car with a registration of 17-G-1263 which is valued at €4875
+This is sale number 45
+Buyer 42 has just bought the brown car with a registration of 17-G-1263 which is valued at €4875
+This is purchase number 50
+Buyer 35 wants to buy a car, but the showroom is currently empty.
+Buyer 45 wants to buy a car, but the showroom is currently empty.
+Buyer 46 wants to buy a car, but the showroom is currently empty.
+Buyer 48 wants to buy a car, but the showroom is currently empty.
+Buyer 49 wants to buy a car, but the showroom is currently empty.
+Day 26 beginning. There are 0 cars in the showroom today.
+A new buyer 51 has arrived at the showroom.
+Buyer 51 wants to buy a car, but the showroom is currently empty.
+A new buyer 52 has arrived at the showroom.
+Buyer 52 wants to buy a car, but the showroom is currently empty.
+A new seller 46 has arrived at the showroom.
+Seller 46 has just sold the white car with a registration of 8-G-4872 which is valued at €18477
+This is sale number 46
+Buyer 52 has just bought the white car with a registration of 8-G-4872 which is valued at €18477
+This is purchase number 52
+Buyer 51 wants to buy a car, but the showroom is currently empty.
+Buyer 49 wants to buy a car, but the showroom is currently empty.
+Buyer 48 wants to buy a car, but the showroom is currently empty.
+Buyer 46 wants to buy a car, but the showroom is currently empty.
+Buyer 45 wants to buy a car, but the showroom is currently empty.
+Buyer 35 wants to buy a car, but the showroom is currently empty.
+A new seller 47 has arrived at the showroom.
+Seller 47 has just sold the brown car with a registration of 8-G-9346 which is valued at €22481
+This is sale number 47
+Buyer 35 has just bought the brown car with a registration of 8-G-9346 which is valued at €22481
+This is purchase number 52
+Buyer 45 wants to buy a car, but the showroom is currently empty.
+Buyer 46 wants to buy a car, but the showroom is currently empty.
+Buyer 48 wants to buy a car, but the showroom is currently empty.
+Buyer 49 wants to buy a car, but the showroom is currently empty.
+Buyer 51 wants to buy a car, but the showroom is currently empty.
+Day 27 beginning. There are 0 cars in the showroom today.
+A new buyer 53 has arrived at the showroom.
+Buyer 53 wants to buy a car, but the showroom is currently empty.
+A new seller 48 has arrived at the showroom.
+Seller 48 has just sold the orange car with a registration of 14-G-5531 which is valued at €18516
+This is sale number 49
+A new seller 49 has arrived at the showroom.
+Buyer 53 has just bought the orange car with a registration of 14-G-5531 which is valued at €18516
+A new seller 50 has arrived at the showroom.
+This is purchase number 53
+Buyer 51 wants to buy a car, but the showroom is currently empty.
+Buyer 49 wants to buy a car, but the showroom is currently empty.
+Buyer 48 wants to buy a car, but the showroom is currently empty.
+Buyer 46 wants to buy a car, but the showroom is currently empty.
+Buyer 45 wants to buy a car, but the showroom is currently empty.
+Seller 50 has just sold the yellow car with a registration of 15-G-9734 which is valued at €15796
+This is sale number 50
+Seller 49 has just sold the purple car with a registration of 15-G-2830 which is valued at €27787
+This is sale number 50
+Buyer 45 has just bought the yellow car with a registration of 15-G-9734 which is valued at €15796
+This is purchase number 53
+Buyer 46 has just bought the purple car with a registration of 15-G-2830 which is valued at €27787
+This is purchase number 53
+Buyer 48 wants to buy a car, but the showroom is currently empty.
+Buyer 49 wants to buy a car, but the showroom is currently empty.
+Buyer 51 wants to buy a car, but the showroom is currently empty.
+Day 28 beginning. There are 0 cars in the showroom today.
+A new buyer 54 has arrived at the showroom.
+Buyer 54 wants to buy a car, but the showroom is currently empty.
+A new buyer 55 has arrived at the showroom.
+Buyer 55 wants to buy a car, but the showroom is currently empty.
+A new buyer 56 has arrived at the showroom.
+Buyer 56 wants to buy a car, but the showroom is currently empty.
+A new seller 51 has arrived at the showroom.
+Seller 51 has just sold the magenta car with a registration of 1-G-4692 which is valued at €2349
+This is sale number 52
+A new seller 52 has arrived at the showroom.
+Buyer 56 has just bought the magenta car with a registration of 1-G-4692 which is valued at €2349
+This is purchase number 56
+Buyer 55 wants to buy a car, but the showroom is currently empty.
+Buyer 54 wants to buy a car, but the showroom is currently empty.
+Buyer 51 wants to buy a car, but the showroom is currently empty.
+Buyer 49 wants to buy a car, but the showroom is currently empty.
+Buyer 48 wants to buy a car, but the showroom is currently empty.
+Seller 52 has just sold the peach car with a registration of 17-G-5414 which is valued at €29726
+This is sale number 52
+Buyer 48 has just bought the peach car with a registration of 17-G-5414 which is valued at €29726
+This is purchase number 56
+Buyer 49 wants to buy a car, but the showroom is currently empty.
+Buyer 51 wants to buy a car, but the showroom is currently empty.
+Buyer 54 wants to buy a car, but the showroom is currently empty.
+Buyer 55 wants to buy a car, but the showroom is currently empty.
+Day 29 beginning. There are 0 cars in the showroom today.
+A new buyer 57 has arrived at the showroom.
+Buyer 57 wants to buy a car, but the showroom is currently empty.
+A new seller 53 has arrived at the showroom.
+Seller 53 has just sold the neon green car with a registration of 0-G-8037 which is valued at €2203
+This is sale number 53
+A new seller 54 has arrived at the showroom.
+Buyer 57 has just bought the neon green car with a registration of 0-G-8037 which is valued at €2203
+This is purchase number 57
+A new seller 55 has arrived at the showroom.
+Buyer 55 wants to buy a car, but the showroom is currently empty.
+Buyer 54 wants to buy a car, but the showroom is currently empty.
+Seller 55 has just sold the gray car with a registration of 18-G-3286 which is valued at €13747
+This is sale number 55
+Buyer 51 has just bought the gray car with a registration of 18-G-3286 which is valued at €13747
+This is purchase number 57
+Buyer 49 wants to buy a car, but the showroom is currently empty.
+Buyer 54 wants to buy a car, but the showroom is currently empty.
+Buyer 55 wants to buy a car, but the showroom is currently empty.
+Seller 54 has just sold the gray car with a registration of 9-G-7383 which is valued at €16477
+This is sale number 55
+Buyer 55 has just bought the gray car with a registration of 9-G-7383 which is valued at €16477
+This is purchase number 57
+Buyer 54 wants to buy a car, but the showroom is currently empty.
+Buyer 49 wants to buy a car, but the showroom is currently empty.
+Day 30 beginning. There are 0 cars in the showroom today.
+A new buyer 58 has arrived at the showroom.
+Buyer 58 wants to buy a car, but the showroom is currently empty.
+A new seller 56 has arrived at the showroom.
+Seller 56 has just sold the purple car with a registration of 2-G-9249 which is valued at €22784
+This is sale number 56
+A new seller 57 has arrived at the showroom.
+Buyer 58 has just bought the purple car with a registration of 2-G-9249 which is valued at €22784
+This is purchase number 58
+Buyer 49 wants to buy a car, but the showroom is currently empty.
+Buyer 54 wants to buy a car, but the showroom is currently empty.
+Seller 57 has just sold the Pink car with a registration of 8-G-5188 which is valued at €17421
+This is sale number 57
+Buyer 54 has just bought the Pink car with a registration of 8-G-5188 which is valued at €17421
+This is purchase number 58
+Buyer 49 wants to buy a car, but the showroom is currently empty.
+Day 31 beginning. There are 0 cars in the showroom today.
+A new buyer 59 has arrived at the showroom.
+Buyer 59 wants to buy a car, but the showroom is currently empty.
+A new seller 58 has arrived at the showroom.
+Seller 58 has just sold the neon green car with a registration of 16-G-6309 which is valued at €25557
+This is sale number 58
+Buyer 59 has just bought the neon green car with a registration of 16-G-6309 which is valued at €25557
+This is purchase number 59
+Buyer 49 wants to buy a car, but the showroom is currently empty.
