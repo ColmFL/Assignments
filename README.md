@@ -19,4 +19,10 @@ This repository contains three Java assignments which cover different aspects of
 
 ### **How To Use**
 
-##
+## assignment4-07355238
+
+### **Motivation**
+
+### **Tech/Frameworks Used
+
+### **How To Use**
