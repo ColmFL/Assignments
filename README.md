@@ -3,11 +3,12 @@
 Assignments undertaken during Hdip in Software Design and Development (Industry Stream).
 This repository contains three Java assignments which cover different aspects of Java development.
 
-#**CT545-Assignment2-ColmLavin#
+## CT545-Assignment2-ColmLavin
 
-##**Motivation**##
+## **Motivation**
 
-##**Tech/Frameworks Used**##
+## **Tech/Frameworks Used**
 
-##**How To Use**##
+## **How To Use**
 
+##
