@@ -30,6 +30,6 @@ This application is a media catalogue application which contains user profiles a
 
 ### **Motivation**
 
-### **Tech/Frameworks Used
+### **Tech/Frameworks Used**
 
 ### **How To Use**
