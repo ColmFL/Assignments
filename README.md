@@ -5,10 +5,18 @@ This repository contains three Java assignments which cover different aspects of
 
 ## CT545-Assignment2-ColmLavin
 
-## **Motivation**
+### **Motivation**
 
-## **Tech/Frameworks Used**
+### **Tech/Frameworks Used**
 
-## **How To Use**
+### **How To Use**
+
+## CT548-assignment3-07355238
+
+### **Motivation**
+
+### **Tech/Frameworks Used**
+
+### **How To Use**
 
 ##
